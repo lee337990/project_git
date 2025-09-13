@@ -1,0 +1,6 @@
+# Apartment Price Prediction System
+> Bootcamp Miniproject 8 (Team Project)
+
+## 📖 개요
+부동산 수요·공급 요인(전세가율, 거래량, 분양 물량 등)과 거시 지표를 활용해 아파트 매매가를 예측하는 회귀 기반 시스템입니다.  
+지역별(시/구 단위) 성능을 비교하고, 주요 영향 변수를 해석 가능한 방식으로 제시합니다.
